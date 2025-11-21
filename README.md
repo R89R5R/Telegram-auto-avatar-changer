@@ -18,7 +18,7 @@
 ## Requirements
 
 - Python 3.7+
-- Libraries: 'telethon', 'Pillow'
+- Libraries: `telethon`, `Pillow`
 - API keys from Telegram (obtained on my.telegram.org)
 
 ## Security
